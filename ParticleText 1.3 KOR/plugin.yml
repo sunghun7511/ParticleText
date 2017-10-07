@@ -1,0 +1,7 @@
+name: ParticleText
+main: me.zenith.particletext.main.ParticleText
+version: 1.3
+description: ParticleText
+commands:
+  ptext:
+    description: Base particle text command
